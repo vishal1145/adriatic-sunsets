@@ -7,11 +7,11 @@
             <nextTour/>
         </div>
 
-        <div class="Tag">
+        <!-- <div class="Tag">
             <span>from
                 <strong>135kn</strong>
             </span>
-        </div>
+        </div> -->
 
         <no-ssr>
             <mq-layout mq="lg+">

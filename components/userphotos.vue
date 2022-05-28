@@ -1,5 +1,6 @@
 <template>
     <div
+        style="display:none"
         class="Userphotos"
         id="social">
         <div class="container">

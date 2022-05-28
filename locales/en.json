@@ -168,7 +168,7 @@
                             "icon": "face.svg"
                         }
                     ],
-                    "price": "Price on request",
+                    "price": "<br />Price on request",
                     "priceLoggedIn": "Price on request",
                     "book": "Book now"
                 }

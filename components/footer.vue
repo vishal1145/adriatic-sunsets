@@ -16,7 +16,7 @@
                 </ul>
                 <ul>
                     <li class="Footer-sectionTitle">{{ $t('footer.headquaters') }}</li>
-                    <li>Frana Supila 1, <br> 20000 Dubrovnik (Ploče gate),<br> <b>Office Hours:</b> 09:00 - 20:00; <br> Obala Pape Ivana Pavla II</li>
+                    <li>Frana Supila 3, <br> 20000 Dubrovnik (Ploče gate),<br> <b>Office Hours:</b> 09:00 - 20:00; <br> Obala Pape Ivana Pavla II</li>
                     <li>
                         Obala Pape Ivana Pavla II, 1, <br> 20000 Dubrovnik (Cargo port, Cruise terminal), <br> <b>Office Hours:</b> 07:00 - 17:00
                     </li>
