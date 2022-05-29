@@ -29,13 +29,15 @@
         <g id="roadmapBosanka" class="point" transform="translate(935.000000, 708.000000)">
             <rect fill="#FFFFFF" x="15" y="83" class="circle" width="14" height="14" rx="7"></rect>
             <text id="Fotostop-Bosanka-59" font-family="hk_groteskbold" font-size="14" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                <tspan x="22" y="23">Fotostop</tspan>
+                <tspan x="22" y="43">Bosanka</tspan>
             </text>
             <text id="15-min" opacity="0.5" font-family="hk_groteskmedium" font-size="15" font-weight="400" fill="#7A1F08">
                 <tspan x="11" y="71">15 min</tspan>
             </text>
             <rect fill-opacity="0" fill="#000000" class="rect" fill-rule="nonzero" x="0" y="0" width="121" height="102"></rect>
             <image width="333" height="222" xlink:href="/app/static/bosanka.jpg" x="-150" y="-250" opacity="0" />
-            <text x="0" y="15" class="text" font-family="hk_groteskbold"   fill="#FFFFFF" font-size="19" font-weight="bold" opacity="0">Fotostop Bosanka 59</text>
+            <!-- <text x="0" y="15" class="text" font-family="hk_groteskbold"   fill="#FFFFFF" font-size="19" font-weight="bold" opacity="0">Fotostop Bosanka 59</text> -->
         </g>
         <g id="roadmapJadranska" class="point" transform="translate(808.000000, 702.000000)">
             <rect id="Rectangle-2-Copy-16" fill="#FFFFFF" x="23" y="74" class="circle" width="14" height="14" rx="7"></rect>
